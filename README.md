@@ -3,9 +3,9 @@
 
 This project is a fully functional Active Directory home lab built on Proxmox, designed to simulate a real-world enterprise IT environment. The goal was to go beyond theory and get hands-on experience with the tools and technologies that sysadmins and IT support professionals work with every day.
 
-The lab covers the full lifecycle of an enterprise environment. from deploying and configuring a Windows Server 2025 Domain Controller, to managing users, groups, and organizational units in Active Directory, enforcing Group Policy, configuring DNS and DHCP, setting up shared folders with proper NTFS permissions, implementing account lockout and security auditing, and automating administrative tasks with PowerShell.
+The lab covers the full lifecycle of an enterprise environment, from deploying and configuring a Windows Server 2025 Domain Controller, to managing users, groups, and organizational units in Active Directory, enforcing Group Policy, configuring DNS and DHCP, setting up shared folders with proper NTFS permissions, implementing account lockout and security auditing, and automating administrative tasks with PowerShell.
 
-Every component was deliberately configured and documented to reflect how a real enterprise environment operates. not just to make it work, but to understand why it works.
+Every component was deliberately configured and documented to reflect how a real enterprise environment operates, not just to make it work, but to understand why it works.
 
 ---
 
