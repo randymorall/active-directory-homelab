@@ -156,5 +156,5 @@ Some of the most valuable learning came from problems I ran into and had to work
 
 ## Certifications
 
-- CompTIA A+ ✅
-- CompTIA Network+ 🔄 (in progress)
+- CompTIA A+ (certified)
+- CompTIA Network+  (in progress)
